@@ -1,3 +1,3 @@
 ### Neovim Sample
 
-i[!sampleNvim](screenshots/nvim_setup_sample.png)
+![sampleNvim](screenshots/nvim_setup_sample.png)
